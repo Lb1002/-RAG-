@@ -6,5 +6,7 @@
 ![image](https://github.com/Lb1002/-RAG-/assets/51111702/a1cf4112-82dc-4b41-a7b8-f6b72e90843c)
 ![image](https://github.com/Lb1002/-RAG-/assets/51111702/8fce82fc-9383-44e6-8f33-7a17337c5e93)
 
+二、晋阶作业
+![image](https://github.com/Lb1002/-RAG-/assets/51111702/591907ad-2177-4d72-ada5-33a44e3b975f)
 
 
